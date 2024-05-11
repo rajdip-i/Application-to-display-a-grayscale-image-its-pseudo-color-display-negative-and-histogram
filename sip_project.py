@@ -1,30 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 29 11:42:16 2023
-
-@author: ANIKET
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 29 11:02:53 2023
-
-@author: ANIKET
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 26 01:09:15 2023
-
-@author: ANIKET
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 25 23:22:59 2023
-
-@author: ANIKET
-"""
 
 import tkinter as tk
 from tkinter import filedialog
